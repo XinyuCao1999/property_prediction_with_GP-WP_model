@@ -1,4 +1,3 @@
-"# GP-WP_model" 
 compound information(original).xlsx: 
 dataset download from https://github.com/PEESEgroup/Pure-Component-Property-Estimation/tree/main/1%20Dataset
 
